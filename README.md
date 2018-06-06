@@ -11,3 +11,4 @@
 ## 其他
 
 * [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
+* [全栈工程师技能点 CheckList](https://arnaudbrousseau.com/notes/tech-interviews.html)
